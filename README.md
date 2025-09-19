@@ -54,7 +54,7 @@ You win! 🎉
 
 # output
 
-<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/e0630cb3-e0a0-4c8d-bfff-1149a121c1f0" />
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/050a166e-c677-446d-ba0d-f827a1d5c1e6" />
 
 # 🔹 Future Enhancements
 
