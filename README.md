@@ -35,7 +35,7 @@ Module: random
 
 Clone this repository:
 
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/meysiii/ROCK-PAPER-SCISSOR
 
 
 # Navigate to the project folder:
